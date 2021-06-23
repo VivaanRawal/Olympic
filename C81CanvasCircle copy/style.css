@@ -1,0 +1,14 @@
+.body_background{
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size:cover;
+}
+#mycanvas{
+border-width:10px;
+border-color:burlywood;
+border-style:ridge;
+}
+h1{
+    color:cornflowerblue;
+font-size:40px;
+}
